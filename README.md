@@ -5,7 +5,7 @@ Side Eye
 
 *for **Hack the North 2018***
 
-Seamless and intuitive computer navigation using facial gestures.
+Intuitive and seamless navigation for multi-monitor setups.
 
 ## Project Submission
 
